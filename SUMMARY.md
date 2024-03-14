@@ -1,8 +1,12 @@
 # Table of contents
 
-* [Architecture Overview](README.md)
-* [App chain roll - ups](app-chain-roll-ups.md)
-* [Data availability](data-availability.md)
-* [Consensus layer](consensus-layer.md)
-* [Bitcoin bridge](bitcoin-bridge.md)
-* [EVM bridge](evm-bridge.md)
+* [Mozita](README.md)
+
+## Architecture
+
+* [Architecture Overview](architecture/architecture-overview.md)
+* [App chain roll - ups](architecture/app-chain-roll-ups.md)
+* [Data availability](architecture/data-availability.md)
+* [Consensus layer](architecture/consensus-layer.md)
+* [Bitcoin bridge](architecture/bitcoin-bridge.md)
+* [EVM bridge](architecture/evm-bridge.md)
