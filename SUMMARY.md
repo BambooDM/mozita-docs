@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Mozita](README.md)
+* [Roadmap](roadmap.md)
 
 ## Architecture
 
@@ -10,3 +11,7 @@
 * [Consensus layer](architecture/consensus-layer.md)
 * [Bitcoin bridge](architecture/bitcoin-bridge.md)
 * [EVM bridge](architecture/evm-bridge.md)
+
+## Perps
+
+* [Placing orders](perps/placing-orders.md)
